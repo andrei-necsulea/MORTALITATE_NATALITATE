@@ -1,0 +1,12 @@
+﻿   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (C:/Qt/6.9.1/msvc2022_64/bin/qmake)
+   Qt: 6.9.1
+  Moc'ing MainWindow.h...
+  MainWindow.cpp
+  PDFReportGenerator.cpp
+  main.cpp
+C:\Users\Andrei Necsulea\Desktop\mortalitate_natalitate\PDFReportGenerator.cpp(79,15): warning C4189: 'pageH': local variable is initialized but not referenced
+C:\Users\Andrei Necsulea\Desktop\mortalitate_natalitate\PDFReportGenerator.cpp(134,15): warning C4189: 'pageH': local variable is initialized but not referenced
+C:\Users\Andrei Necsulea\Desktop\mortalitate_natalitate\PDFReportGenerator.cpp(191,15): warning C4189: 'pageH': local variable is initialized but not referenced
+  moc_MainWindow.cpp
+  DemographicSimulator.vcxproj -> C:\Users\Andrei Necsulea\Desktop\mortalitate_natalitate\debug\DemographicSimulator.exe
